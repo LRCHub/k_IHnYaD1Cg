@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ナミダ",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-04T06:36:15.603848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なないろ☆ナミダ (メイキング映像)",
+      "artist": "Tomato n’ Pine",
+      "has_synced": false,
+      "path": "select/01_なないろ☆ナミダ_(メイキング映像)_Tomato_n’_Pine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ナミダ、あわ雪",
+      "artist": "Niji no Conquistador",
+      "has_synced": true,
+      "path": "select/02_ナミダ、あわ雪_Niji_no_Conquistador.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナミダ、あわ雪",
+      "artist": "虹のコンキスタドール",
+      "has_synced": true,
+      "path": "select/03_ナミダ、あわ雪_虹のコンキスタドール.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なないろ☆ナミダ",
+      "artist": "Tomato n’ Pine",
+      "has_synced": true,
+      "path": "select/04_なないろ☆ナミダ_Tomato_n’_Pine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ナミダ (Instrumental)",
+      "artist": "2BACKKA",
+      "has_synced": false,
+      "path": "select/05_ナミダ_(Instrumental)_2BACKKA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なないろ☆ナミダ",
+      "artist": "Tomato N' Pine",
+      "has_synced": true,
+      "path": "select/06_なないろ☆ナミダ_Tomato_N'_Pine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナミダ",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_ナミダ_MARETU.txt"
+    }
+  ]
+}
